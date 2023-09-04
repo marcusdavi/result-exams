@@ -1,0 +1,311 @@
+1º - 10014755 - Matheus Fermino Duarte dos Santos - 40.0 - 46.0 - 86 - 212.0
+2º - 10017302 - Matheus Silva Araujo - 42.0 - 38.0 - 80 - 202.0
+3º - 10011446 - Mateus Costa Teixeira - 42.0 - 38.0 - 80 - 202.0
+4º - 10020744 - Gabriel Weich - 33.0 - 44.0 - 77 - 187.0
+5º - 10030710 - Frederico Ferreira Alves Pinto - 36.0 - 38.0 - 74 - 184.0
+6º - 10016980 - Ricardo Luis Vaz Silva - 37.0 - 34.0 - 71 - 179.0
+7º - 10020692 - Pedro Henrique Estumano Gomes - 38.0 - 29.0 - 67 - 172.0
+8º - 10000392 - Rodrigo Mafort Oliveira da Silva - 30.0 - 39.0 - 69 - 168.0
+9º - 10015728 - Lucas Augusto Rocini - 36.0 - 30.0 - 66 - 168.0
+10º - 10000331 - Marcus Vinicius de Souza Moreira - 31.0 - 37.0 - 68 - 167.0
+11º - 10000190 - Gustavo Spohr Plentz - 36.0 - 29.0 - 65 - 166.0
+12º - 10020013 - Joel Nogueira Pacheco - 28.0 - 40.0 - 68 - 164.0
+13º - 10019001 - Hiago Natan Fernandes de Sousa - 26.0 - 42.0 - 68 - 162.0
+14º - 10019757 - Josafa Santos dos Reis - 28.0 - 39.0 - 67 - 162.0
+15º - 10024354 - Otavio Azevedo de Carvalho Kamel Barbosa - 31.0 - 34.0 - 65 - 161.0
+16º - 10017586 - Michelli Ingrid dos Santos Silva - 33.0 - 30.0 - 63 - 159.0
+17º - 10027549 - Manoel Eleuterio - 34.0 - 28.0 - 62 - 158.0
+18º - 10029489 - Paulilio Ferreira Castello Branco - 38.0 - 22.0 - 60 - 158.0
+19º - 10013884 - Francisco Jefferson da Silva dos Santos - 34.0 - 27.0 - 61 - 156.0
+20º - 10010002 - Camila Raquel Bernardes Mangabeira - 35.0 - 25.0 - 60 - 155.0
+21º - 10014009 - Marcelo Ferraz de Oliveira - 30.0 - 32.0 - 62 - 154.0
+22º - 10008178 - Haroldo Albuquerque Maranhao de Oliveira - 28.0 - 34.0 - 62 - 152.0
+23º - 10030257 - Mateus Michelon Bisognin - 28.0 - 34.0 - 62 - 152.0
+24º - 10010014 - Bruna Tatiane da Silva Oliveira - 26.0 - 36.0 - 62 - 150.0
+25º - 10019812 - Joao Marcos Pena Gouveia - 30.0 - 30.0 - 60 - 150.0
+26º - 10004322 - Felipe Barreto da Silva - 26.0 - 35.0 - 61 - 148.0
+27º - 10019988 - Gloria Andrade Vaz Curado Brandao - 26.0 - 35.0 - 61 - 148.0
+28º - 10000575 - Mariana Albuquerque de Oliveira Arede - 30.0 - 29.0 - 59 - 148.0
+29º - 10025045 - Pedro Henrique de Jesus Menezes - 36.0 - 20.0 - 56 - 148.0
+30º - 10024155 - Matheus Tomaz de Aveiro - 34.0 - 22.0 - 56 - 146.0
+31º - 10018628 - Diego Frederico de Sousa Silva - 29.0 - 29.0 - 58 - 145.0
+32º - 10022774 - Douglas Cardoso Nogueira - 24.0 - 36.0 - 60 - 144.0
+33º - 10005315 - Cesar Lemos Rodrigues - 27.0 - 31.0 - 58 - 143.0
+34º - 10012644 - Joao Rafael Duarte Pereira - 22.0 - 38.0 - 60 - 142.0
+35º - 10014458 - Jose Santos da Luz - 26.0 - 32.0 - 58 - 142.0
+36º - 10023397 - Francisco Monte Sousa Sobrinho - 30.0 - 26.0 - 56 - 142.0
+37º - 10005058 - Bruno Affonso Magalhaes Bahia - 28.0 - 28.0 - 56 - 140.0
+38º - 10023200 - Attila Lima Guerrera - 25.0 - 32.0 - 57 - 139.0
+39º - 10015265 - Karen Cristielle Alves da Silva - 27.0 - 29.0 - 56 - 139.0
+40º - 10004722 - Pedro Paulo Silva Pereira - 24.0 - 33.0 - 57 - 138.0
+41º - 10003986 - Guilherme Augusto Gaertner Weber - 30.0 - 24.0 - 54 - 138.0
+42º - 10027132 - Edson Matsumoto - 25.0 - 31.0 - 56 - 137.0
+43º - 10025520 - Ivan Carlos Caetano da Silva - 29.0 - 25.0 - 54 - 137.0
+44º - 10018489 - Maria Heloisa Fortes Pereira - 31.0 - 22.0 - 53 - 137.0
+45º - 10024605 - Danilo William dos Reis Socorro - 20.0 - 38.0 - 58 - 136.0
+46º - 10010078 - Mateus Sales Bentes - 24.0 - 32.0 - 56 - 136.0
+47º - 10018787 - Juliano Volkers Barbosa - 26.0 - 29.0 - 55 - 136.0
+48º - 10003862 - Jean Sanches Gremaschi - 28.0 - 26.0 - 54 - 136.0
+49º - 10020689 - Claudio Augusto Ribeiro de Marco - 27.0 - 27.0 - 54 - 135.0
+50º - 10008985 - Julia de Lima Carletti - 29.0 - 24.0 - 53 - 135.0
+51º - 10019842 - Anderson Bezerra do Rego - 31.0 - 21.0 - 52 - 135.0
+52º - 10013357 - Cosme Damiao de Oliveira Silveira - 26.0 - 27.0 - 53 - 132.0
+53º - 10024785 - Anderson Cruz Diniz - 28.0 - 24.0 - 52 - 132.0
+54º - 10000176 - Fausto Luis de Lima Vaz - 28.0 - 24.0 - 52 - 132.0
+55º - 10002616 - Pedro de Aguiar Alves da Silva Menezes - 28.0 - 24.0 - 52 - 132.0
+56º - 10021000 - Henry Ubial Pereira - 32.0 - 18.0 - 50 - 132.0
+57º - 10004313 - Yane Silva Lobo - 32.0 - 18.0 - 50 - 132.0
+58º - 10011962 - Clarissa Rosas Troccoli Dias - 32.0 - 18.0 - 50 - 132.0
+59º - 10023535 - Ivan Cleber Tavares de Oliveira - 23.0 - 31.0 - 54 - 131.0
+60º - 10030774 - Jorge Fernando Vieira - 22.0 - 32.0 - 54 - 130.0
+61º - 10022891 - Leonardo Teles de Almeida - 22.0 - 32.0 - 54 - 130.0
+62º - 10031219 - Isaac Duarte de Oliveira - 26.0 - 26.0 - 52 - 130.0
+63º - 10002966 - Guilherme Henrique Campos da Paz de Melo - 21.0 - 33.0 - 54 - 129.0
+64º - 10022650 - Rafael Luiz Leao Bandeira de Moura - 24.0 - 28.0 - 52 - 128.0
+65º - 10023116 - Caio Teixeira Bonfim Felix Cirilo - 29.0 - 20.0 - 49 - 127.0
+66º - 10009107 - Angelo Jun Matsui - 18.0 - 36.0 - 54 - 126.0
+67º - 10026581 - Lua Cristhian Moura Lima - 26.0 - 24.0 - 50 - 126.0
+68º - 10020697 - Mauro Luiz Noguti Horbach - 26.0 - 24.0 - 50 - 126.0
+69º - 10028278 - Felipe Ricardo Illesca da Costa - 30.0 - 18.0 - 48 - 126.0
+70º - 10021853 - Clenio Afonso de Oliveira Moura - 15.0 - 40.0 - 55 - 125.0
+71º - 10006478 - Diogo de Mendonca Neves - 21.0 - 31.0 - 52 - 125.0
+72º - 10027748 - Jose Yuri Lima Lira - 20.0 - 32.0 - 52 - 124.0
+73º - 10022509 - Gilson Alvino da Costa - 24.0 - 26.0 - 50 - 124.0
+74º - 10010464 - Joel Bento Valenca - 26.0 - 23.0 - 49 - 124.0
+75º - 10028699 - Pablo Guastuci Lopes - 26.0 - 23.0 - 49 - 124.0
+76º - 10029682 - Marcellus Vinicius Antunes de Olivera - 28.0 - 20.0 - 48 - 124.0
+77º - 10011979 - Marcelo Spigolon Pereira - 21.0 - 30.0 - 51 - 123.0
+78º - 10026321 - Josiane de Lima - 21.0 - 30.0 - 51 - 123.0
+79º - 10011327 - Marcelo Dantas Junior - 23.0 - 27.0 - 50 - 123.0
+80º - 10002734 - Matheus de Sant Ana Soares - 23.0 - 27.0 - 50 - 123.0
+81º - 10024574 - Fabiola Marques Rezende - 25.0 - 24.0 - 49 - 123.0
+82º - 10016316 - Victor Baamonde Gomes Domingos - 27.0 - 21.0 - 48 - 123.0
+83º - 10026258 - Rodrigo da Fontoura Centenaro - 27.0 - 21.0 - 48 - 123.0
+84º - 10004227 - Silverio de Melo Del Fiaco - 27.0 - 21.0 - 48 - 123.0
+85º - 10022453 - Fabio Davi Rauh - 24.0 - 25.0 - 49 - 122.0
+86º - 10009056 - Sheldon Goulart de Alcantara - 26.0 - 22.0 - 48 - 122.0
+87º - 10023545 - Elvis Jonhon da Silva Leite - 25.0 - 23.0 - 48 - 121.0
+88º - 10022404 - Caio Monteiro Pantoja - 20.0 - 30.0 - 50 - 120.0
+89º - 10011674 - Fabio Fred Cordeiro Prates - 20.0 - 30.0 - 50 - 120.0
+90º - 10012590 - Betolvem Cristhian Lucio da Silva - 22.0 - 27.0 - 49 - 120.0
+91º - 10026997 - Andre Neves dos Reis - 24.0 - 24.0 - 48 - 120.0
+92º - 10011454 - Marcel Ivo Moura - 26.0 - 21.0 - 47 - 120.0
+93º - 10029211 - Allan Santos do Monte Silva - 21.0 - 28.0 - 49 - 119.0
+94º - 10027999 - Deusdedit Campelo Lima Neto - 23.0 - 25.0 - 48 - 119.0
+95º - 10028103 - Ernani Sans Filho - 25.0 - 22.0 - 47 - 119.0
+96º - 10011168 - Lucas Cardoso Silva - 25.0 - 22.0 - 47 - 119.0
+97º - 10002925 - Tonyel Reys Lopes Silva - 20.0 - 29.0 - 49 - 118.0
+98º - 10004281 - Wagner Santana - 20.0 - 29.0 - 49 - 118.0
+99º - 10026950 - Andrea Goncalves de Oliveira Cavalcanti - 24.0 - 23.0 - 47 - 118.0
+100º - 10002017 - Mateus Rodrigues de Alencar - 26.0 - 20.0 - 46 - 118.0
+101º - 10013821 - Joeder Rodrigues Franca Moura - 20.0 - 28.0 - 48 - 116.0
+102º - 10020340 - Marco Venicius Teixeira Barbosa - 20.0 - 28.0 - 48 - 116.0
+103º - 10020966 - Marcos Vinicius Costa Silva - 20.0 - 28.0 - 48 - 116.0
+104º - 10010324 - Gilbert Campos Vilalva da Silva - 22.0 - 25.0 - 47 - 116.0
+105º - 10029187 - Miguel Lima Lopes de Oliveira - 24.0 - 22.0 - 46 - 116.0
+106º - 10019367 - Pedro Paim Rodrigues Arce - 24.0 - 22.0 - 46 - 116.0
+107º - 10029987 - Rodrigo Girao Porto - 24.0 - 22.0 - 46 - 116.0
+108º - 10000757 - Graziela Fernandes Campos - 24.0 - 22.0 - 46 - 116.0
+109º - 10022219 - Rodrigo Aparecido Justino - 17.0 - 32.0 - 49 - 115.0
+110º - 10006582 - Bruno Lins Maia - 17.0 - 32.0 - 49 - 115.0
+111º - 10008559 - Alessandro Fraga Gomes - 21.0 - 26.0 - 47 - 115.0
+112º - 10027885 - Hilton Junio Costa Cabral - 21.0 - 26.0 - 47 - 115.0
+113º - 10026260 - Cassio Lacerda Rosa de Matos - 18.0 - 30.0 - 48 - 114.0
+114º - 10005959 - Robertson Rabelo Arvelos Dias - 20.0 - 27.0 - 47 - 114.0
+115º - 10002302 - Victor Hugo Aguiar Alves - 26.0 - 18.0 - 44 - 114.0
+116º - 10007346 - Cleonildo Nunes de Macedo - 15.0 - 34.0 - 49 - 113.0
+117º - 10016553 - Jose Carlos de Jesus Maciel - 15.0 - 34.0 - 49 - 113.0
+118º - 10024029 - Marcele Bona Alvim - 21.0 - 25.0 - 46 - 113.0
+119º - 10025013 - Daniel Carvalho Moreira - 23.0 - 22.0 - 45 - 113.0
+120º - 10009571 - Marcio de Carvalho Torres - 16.0 - 32.0 - 48 - 112.0
+121º - 10001285 - Edgard da Cunha Pontes - 20.0 - 26.0 - 46 - 112.0
+122º - 10006152 - Udi Rosa Godinho - 22.0 - 23.0 - 45 - 112.0
+123º - 10026993 - Filipe Gabriel Fonseca de Medeiros - 24.0 - 20.0 - 44 - 112.0
+124º - 10006940 - Rivania de Sousa Barros da Silva - 15.0 - 33.0 - 48 - 111.0
+125º - 10026642 - Carlos Henrique Bardelli - 19.0 - 27.0 - 46 - 111.0
+126º - 10032024 - Danilo Yuri de Souza Duarte - 21.0 - 24.0 - 45 - 111.0
+127º - 10012061 - Lilian Nunes Will de Oliveira - 23.0 - 21.0 - 44 - 111.0
+128º - 10027579 - Brenno Pimenta da Costa - 16.0 - 6731.0 - 47 - 110.0
+129º - 10014921 - Isac Cordeiro de Oliveira - 20.0 - 25.0 - 45 - 110.0
+130º - 10023246 - Beatriz Silva Leite - 22.0 - 22.0 - 44 - 110.0
+131º - 10019374 - Luciano Chaves Neto - 26.0 - 16.0 - 42 - 110.0
+132º - 10019170 - Idina Cristiane Velasques Castro - 25.0 - 17.0 - 42 - 109.0
+133º - 10002625 - Alessandra Galvao da Silva - 18.0 - 27.0 - 45 - 108.0
+134º - 10022958 - Bruno Aurelio Cipriano Resende - 20.0 - 24.0 - 44 - 108.0
+135º - 10013863 - Jael Oliveira de Almeida - 20.0 - 24.0 - 44 - 108.0
+136º - 10025277 - Layse Julyanne Pereira dos Santos - 20.0 - 24.0 - 44 - 108.0
+137º - 10001309 - Alexandre Pereira da Silva - 15.0 - 31.0 - 46 - 107.0
+138º - 10011560 - Gustavo Nascimento Passos - 21.0 - 22.0 - 43 - 107.0
+139º - 10022204 - Anderson Menezes do Nascimento - 23.0 - 19.0 - 42 - 107.0
+140º - 10020152 - Eduardo Martins de Quadros da Silva - 14.0 - 32.0 - 46 - 106.0
+141º - 10030413 - Ricardo Lee Freitas da Silva - 14.0 - 32.0 - 46 - 106.0
+142º - 10020897 - Francisco Antonio Alves do Nascimento - 16.0 - 29.0 - 45 - 106.0
+143º - 10028396 - Ricardo Antonio Moreno - 16.0 - 29.0 - 45 - 106.0
+144º - 10017176 - Alexandro Rodrigues dos Santos - 20.0 - 23.0 - 43 - 106.0
+145º - 10023666 - Igor de Oliveira Lima - 23.0 - 18.0 - 41 - 105.0
+146º - 10004319 - Cristiano Ciro Ferreira Gomes - 16.0 - 28.0 - 44 - 104.0
+147º - 10002456 - Italo da Silva Brito - 18.0 - 25.0 - 43 - 104.0
+148º - 10025808 - Welington de Paula Silva - 18.0 - 25.0 - 43 - 104.0
+149º - 10030980 - Cristhian Neander Kruger - 20.0 - 22.0 - 42 - 104.0
+150º - 10008880 - Laercio Galesso Junior - 20.0 - 22.0 - 42 - 104.0
+151º - 10022443 - Lucimery Salgado Arantes - 20.0 - 22.0 - 42 - 104.0
+152º - 10011393 - Aleixo Alves de Sousa Junior - 22.0 - 19.0 - 41 - 104.0
+153º - 10026159 - Jose Selmar de Araujo Lima Junior - 15.0 - 29.0 - 44 - 103.0
+154º - 10020230 - Carolina Araujo de Sousa - 18.0 - 24.0 - 42 - 102.0
+155º - 10005981 - Mario Moreira de Freitas - 20.0 - 21.0 - 41 - 102.0
+156º - 10004050 - Wagner Maximo Serrano - 20.0 - 21.0 - 41 - 102.0
+157º - 10028041 - Klaxon Valois Fantin - 22.0 - 18.0 - 40 - 102.0
+158º - 10022229 - Atila Teixeira Oliveira - 15.0 - 28.0 - 43 - 101.0
+159º - 10013105 - Eduardo Lucas Ramos da Silva - 17.0 - 25.0 - 42 - 101.0
+160º - 10011347 - Adilson Marcos Zompero da Silva - 19.0 - 22.0 - 41 - 101.0
+161º - 10026782 - Rodrigo Nagliate Batista - 19.0 - 22.0 - 41 - 101.0
+162º - 10015247 - Bruno Adonis de Sa - 23.0 - 16.0 - 39 - 101.0
+163º - 10031840 - Igor Barreto - 8.0 - 38.0 - 46 - 100.0
+164º - 10014714 - Julio Cesar Lima de Souza - 13.0 - 30.0 - 43 - 99.0
+165º - 10001340 - Stefferson Luz Silva - 21.0 - 18.0 - 39 - 99.0
+166º - 10004486 - Tiago Rodrigues da Costa - 23.0 - 15.0 - 38 - 99.0
+167º - 10001867 - Ualison Aguiar da Ponte Frota - 10.0 - 34.0 - 44 - 98.0
+168º - 10016712 - Robson dos Santos Ferreira - 16.0 - 25.0 - 41 - 98.0
+169º - 10016527 - Caue Manieri Katayama - 18.0 - 22.0 - 40 - 98.0
+170º - 10009058 - Jaqueline Figueroa Gomes de Souza - 18.0 - 22.0 - 40 - 98.0
+171º - 10028903 - Daniel Alfaia do Nascimento - 18.0 - 22.0 - 40 - 98.0
+172º - 10008736 - Jacson Luis de Oliveira Franca - 22.0 - 16.0 - 38 - 98.0
+173º - 10023936 - Yuri Firmo Simoes de Freitas - 19.0 - 20.0 - 39 - 97.0
+174º - 10029827 - Angelica da Silva Paula - 23.0 - 14.0 - 37 - 97.0
+175º - 10019118 - Alisson Ricardo - 8.0 - 36.0 - 44 - 96.0
+176º - 10001335 - Sergio Rogerio de Oliveira Junior - 12.0 - 30.0 - 42 - 96.0
+177º - 10019759 - Natan Torres Balmant - 18.0 - 21.0 - 39 - 96.0
+178º - 10001858 - Thiago Lobo Goncalves - 18.0 - 21.0 - 39 - 96.0
+179º - 10020305 - Viviane Cristine Garcia Renuci - 18.0 - 21.0 - 39 - 96.0
+180º - 10017179 - Edezio Bezerra Ferreira Neto - 18.0 - 21.0 - 39 - 96.0
+181º - 10024929 - Patricia Silva Cavalcante - 15.0 - 25.0 - 40 - 95.0
+182º - 10018147 - Andre Slompo - 14.0 - 26.0 - 40 - 94.0
+183º - 10021335 - Regianldo de Sousa Machado - 14.0 - 26.0 - 40 - 94.0
+184º - 10024471 - Pedro Phelipe de Castro Guedes - 14.0 - 26.0 - 40 - 94.0
+185º - 10015570 - Ieda Maria Veloso Chaves - 18.0 - 20.0 - 38 - 94.0
+186º - 10031985 - Carolina Aparecida Pires - 22.0 - 14.0 - 36 - 94.0
+187º - 10014047 - Victoria Silva Senedesse - 15.0 - 24.0 - 39 - 93.0
+188º - 10029205 - Edinard Martins Silva Filho - 15.0 - 24.0 - 39 - 93.0
+189º - 10009541 - Lucas Freitas de Souza - 15.0 - 24.0 - 39 - 93.0
+190º - 10000570 - Eudson Duraes Silva - 15.0 - 24.0 - 39 - 93.0
+191º - 10005487 - Felipe Antunes Quirino - 15.0 - 24.0 - 39 - 93.0
+192º - 10024528 - Valdineia Lemke - 17.0 - 21.0 - 38 - 93.0
+193º - 10014477 - Renata Andrea Henriques Sales - 19.0 - 18.0 - 37 - 93.0
+194º - 10030447 - Guilherme Rodrigues Cordeiro - 8.0 - 34.0 - 42 - 92.0
+195º - 10024823 - Joao Batista Ferreira Dias Uchoa Junior - 16.0 - 22.0 - 38 - 92.0
+196º - 10013508 - Noyalle do Nascimento Pereira - 7.0 - 35.0 - 42 - 91.0
+197º - 10019904 - Joenio Mariano da Silva - 13.0 - 26.0 - 39 - 91.0
+198º - 10013618 - Joao Paulo Dantas Basilio - 15.0 - 23.0 - 38 - 91.0
+199º - 10009366 - Moises do Carmo Ribeiro Junior - 15.0 - 23.0 - 38 - 91.0
+200º - 10012514 - Walter Lucas Monteiro de Mendonca - 17.0 - 20.0 - 37 - 91.0
+201º - 10011821 - Marcio Hiromi Nakamura - 17.0 - 20.0 - 37 - 91.0
+202º - 10002984 - Francisco Vandick Angelim Arcanjo Filho - 19.0 - 17.0 - 36 - 91.0
+203º - 10012801 - Rodrigo de Brito Maluf - 16.0 - 21.0 - 37 - 90.0
+204º - 10011193 - Andre Lopes de Souza - 16.0 - 21.0 - 37 - 90.0
+205º - 10028643 - Soraia Paula Fernanda Nieri Madi - 18.0 - 18.0 - 36 - 90.0
+206º - 10023331 - Israel Bulcao Farias Luz Tavares - 12.0 - 26.0 - 38 - 88.0
+207º - 10027724 - Thiago Martins da Silva - 14.0 - 23.0 - 37 - 88.0
+208º - 10027248 - Micheli Coutinho Moreira - 16.0 - 20.0 - 36 - 88.0
+209º - 10026868 - Augusto Esmelindro Filho - 16.0 - 20.0 - 36 - 88.0
+210º - 10011185 - Carlos Augusto Souza Carvalho - 13.0 - 24.0 - 37 - 87.0
+211º - 10015299 - Alexandre Tambra Carmo - 10.0 - 28.0 - 38 - 86.0
+212º - 10027462 - Thaynara Alves Guimaraes - 10.0 - 28.0 - 38 - 86.0
+213º - 10000543 - Hugo Leonardo Garcia de Carvalho - 14.0 - 22.0 - 36 - 86.0
+214º - 10028715 - Jonathan Sabino Pedrosa - 14.0 - 22.0 - 36 - 86.0
+215º - 10002013 - Rafael Augusto Ribeiro Bairrinhos - 16.0 - 19.0 - 35 - 86.0
+216º - 10005503 - Francisco de Jesus Pereira - 18.0 - 16.0 - 34 - 86.0
+217º - 10006388 - Michele Cristina Borges do Amaral - 18.0 - 16.0 - 34 - 86.0
+218º - 10013258 - Marta Eliza Hammerschmitt - 13.0 - 23.0 - 36 - 85.0
+219º - 10031125 - Andre Alves do Nascimento - 17.0 - 17.0 - 34 - 85.0
+220º - 10016538 - Jefferson David Ferreira da Silva - 17.0 - 17.0 - 34 - 85.0
+221º - 10017509 - Michel Wesley Lima Fernandes - 12.0 - 24.0 - 36 - 84.0
+222º - 10001312 - Leila dos Santos Pereira - 16.0 - 18.0 - 34 - 84.0
+223º - 10029336 - Orlando Oliveira Berssane - 17.0 - 16.0 - 33 - 83.0
+224º - 10014023 - Bruno Nathan da Veiga Sureck - 14.0 - 20.0 - 34 - 82.0
+225º - 10000465 - Crizan Belem Ribeiro - 14.0 - 20.0 - 34 - 82.0
+226º - 10005900 - Artur Roza Campos - 16.0 - 17.0 - 33 - 82.0
+227º - 10022437 - 73 Vinicius Porto Ballester - 16.0 - 17.0 - 33 - 82.0
+228º - 10020628 - Anderson Roberto Silva da Rosa - 18.0 - 14.0 - 32 - 82.0
+229º - 10029556 - Leonardo Vinicius Duarte de Abreu - 18.0 - 14.0 - 32 - 82.0
+230º - 10019823 - Wellington Alex Ferreira - 17.0 - 15.0 - 32 - 81.0
+231º - 10013705 - Renato Gregorio da Costa - 10.0 - 25.0 - 35 - 80.0
+232º - 10026913 - Leonardo Affonso - 12.0 - 22.0 - 34 - 80.0
+233º - 10005842 - Gisele Canedo - 12.0 - 22.0 - 34 - 80.0
+234º - 10011337 - Claudio Reis - 12.0 - 22.0 - 34 - 80.0
+235º - 10002348 - Ramiro Ribeiro do Nascimento Junior - 14.0 - 19.0 - 33 - 80.0
+236º - 10010544 - Eliano Lucas da Silva - 14.0 - 19.0 - 33 - 80.0
+237º - 10002035 - Daniel da Silva Barros - 14.0 - 19.0 - 33 - 80.0
+238º - 10013848 - Andre Fernandes Cardoso - 16.0 - 16.0 - 32 - 80.0
+239º - 10011650 - Jose Henrique Ferreira de Araujo - 16.0 - 16.0 - 32 - 80.0
+240º - 10023591 - Brendel Francisco Lima Santos - 11.0 - 23.0 - 34 - 79.0
+241º - 10012751 - Carlos Julio Andrade de Carvalho - 13.0 - 20.0 - 33 - 79.0
+242º - 10012143 - Rodrigo Calafate Cavote - 17.0 - 14.0 - 31 - 79.0
+243º - 10007482 - Adir Ferreira Alves - 10.0 - 24.0 - 34 - 78.0
+244º - 10007954 - Johnny Marques Gomes de Albuquerque - 10.0 - 24.0 - 34 - 78.0
+245º - 10023489 - Roberto Ornellas Assis Ferreira - 16.0 - 15.0 - 31 - 78.0
+246º - 10015693 - Carlos Alberto de Paiva Melo Junior - 13.0 - 19.0 - 32 - 77.0
+247º - 10031429 - Osterno Moreira Pinto - 13.0 - 19.0 - 32 - 77.0
+248º - 10000763 - Rouberval Castelo Oliveira - 15.0 - 16.0 - 31 - 77.0
+249º - 10029817 - Fabiana Goncalves Pereira Piveta - 8.0 - 26.0 - 34 - 76.0
+250º - 10004430 - Jose Roberto Batista de Santana Junior - 10.0 - 23.0 - 33 - 76.0
+251º - 10011191 - Jose Gilvan Guilherme Silva - 12.0 - 20.0 - 32 - 76.0
+252º - 10014195 - Mauricio Lima da Silva - 12.0 - 20.0 - 32 - 76.0
+253º - 10007148 - Paulo Buarque Soares de Gusmao - 12.0 - 20.0 - 32 - 76.0
+254º - 10011814 - Claudiano Particheli Machado - 16.0 - 14.0 - 30 - 76.0
+255º - 10001739 - Dhaniel da Cruz Barros - 16.0 - 14.0 - 30 - 76.0
+256º - 10020137 - Amauri Marcus Conceicao da Silva - 11.0 - 21.0 - 32 - 75.0
+257º - 10016443 - Marcela Cristina Costa Branco - 11.0 - 21.0 - 32 - 75.0
+258º - 10025959 - Daniel Bueno Amorim - 13.0 - 18.0 - 31 - 75.0
+259º - 10021070 - Maria Dantas de Araujo Neta - 15.0 - 15.0 - 30 - 75.0
+260º - 10019372 - Lucas Alves Campelo - 15.0 - 15.0 - 30 - 75.0
+261º - 10031367 - Marcus 71 Vinicius de Carvalho Braga - 10.0 - 22.0 - 32 - 74.0
+262º - 10023679 - Ricardo Svager Allet - 12.0 - 19.0 - 31 - 74.0
+263º - 10029150 - Joao Quaresma da Silva Junior - 14.0 - 16.0 - 30 - 74.0
+264º - 10014003 - Fernando Santos Costa - 14.0 - 16.0 - 30 - 74.0
+265º - 10012194 - Carlos Cesar Algarte - 11.0 - 20.0 - 31 - 73.0
+266º - 10021119 - Hyago Miranda Cortes - 11.0 - 20.0 - 31 - 73.0
+267º - 10014144 - Kaiky Ferreira Tavares - 13.0 - 17.0 - 30 - 73.0
+268º - 10004267 - Irene Egler Aguiar - 10.0 - 21.0 - 31 - 72.0
+269º - 10028359 - Clausewykson Ribeiro da Cunha - 12.0 - 18.0 - 30 - 72.0
+270º - 10022162 - Lorecy de Souza Campara - 6.0 - 26.0 - 32 - 70.0
+271º - 10002575 - Izaul Karlos da Silva Souza - 10.0 - 20.0 - 30 - 70.0
+272º - 10024825 - Joelson Studart Rocha de Sousa - 14.0 - 14.0 - 28 - 70.0
+273º - 10000014 - Ronaldo Albino Lopes da Silva - 7.0 - 24.0 - 31 - 69.0
+274º - 10013398 - Emilson Cardoso Moreira - 9.0 - 21.0 - 30 - 69.0
+275º - 10019301 - Felipe Goncalves Castro - 11.0 - 18.0 - 29 - 69.0
+276º - 10005722 - Marcelo de Medeiros Fernandes - 13.0 - 15.0 - 28 - 69.0
+277º - 10014306 - Elder Oliveira Peixoto - 13.0 - 15.0 - 28 - 69.0
+278º - 10023988 - Agnaldo Meireles da Silva - 6.0 - 25.0 - 31 - 68.0
+279º - 10016379 - Yasmin de Paula Miranda de Morais - 8.0 - 22.0 - 30 - 68.0
+280º - 10019800 - Alexandre Lopes Lima - 8.0 - 22.0 - 30 - 68.0
+281º - 10023352 - Jeffersson Chiachio Cerqueira - 10.0 - 19.0 - 29 - 68.0
+282º - 10024542 - Gerson Tsutomu Onuki - 12.0 - 16.0 - 28 - 68.0
+283º - 10018167 - Jose Antonio Fontes Araujo - 12.0 - 16.0 - 28 - 68.0
+284º - 10019900 - Gabriel Pereira Camelo - 9.0 - 20.0 - 29 - 67.0
+285º - 10018017 - Helize Soares Curcino Reis Carvalho Pereira - 11.0 - 17.0 - 28 - 67.0
+286º - 10015381 - Ronivon Goncalves de Sousa - 6.0 - 24.0 - 30 - 66.0
+287º - 10011141 - Vilson Cordeiro - 10.0 - 18.0 - 28 - 66.0
+288º - 10009051 - Mychael Anderson Silva Santana - 10.0 - 18.0 - 28 - 66.0
+289º - 10004597 - Ernesto Faria Rodrigues - 12.0 - 15.0 - 27 - 66.0
+290º - 10013541 - Diovanni Moraes de Araujo - 11.0 - 16.0 - 27 - 65.0
+291º - 10004144 - Fabio Chagas Caxias de Lima - 8.0 - 20.0 - 28 - 64.0
+292º - 10002016 - Guilherme Marcos Vit - 8.0 - 20.0 - 28 - 64.0
+293º - 10012651 - Edson Schroeder - 11.0 - 15.0 - 26 - 63.0
+294º - 10030097 - Julio Cezar Araujo Bernabel - 8.0 - 19.0 - 27 - 62.0
+295º - 10015393 - Yuri Mendes Kazzaz - 10.0 - 16.0 - 26 - 62.0
+296º - 10028008 - Iara Martins Coelho de Souza - 10.0 - 16.0 - 26 - 62.0
+297º - 10020641 - Arthur Douglas Azevedo Soares - 11.0 - 14.0 - 25 - 61.0
+298º - 10024715 - Elano Costa Mota - 11.0 - 14.0 - 25 - 61.0
+299º - 10026898 - Ana Lucia Santana Pinto - 8.0 - 18.0 - 26 - 60.0
+300º - 10000044 - Andre de Souza Justo - 9.0 - 16.0 - 25 - 59.0
+301º - 10010531 - Rogerio Adriano Santin - 10.0 - 14.0 - 24 - 58.0
+302º - 10009633 - Adrizia Silva da Paixao - 9.0 - 14.0 - 23 - 55.0
+303º - 10020296 - Jose Dantas de Matos Neto - 6.0 - 18.0 - 24 - 54.0
+304º - 10021813 - Paula Janaina Melo Freitas - 8.0 - 15.0 - 23 - 54.0
+305º - 10002188 - Pedro Ezequiel de Brito - 6.0 - 17.0 - 23 - 52.0
+306º - 10017198 - Lucianna da Costa Martinelli - 8.0 - 14.0 - 22 - 52.0
+307º - 10027679 - Rafhael Rodrigo dos Santos - 8.0 - 14.0 - 22 - 52.0
+308º - 10019183 - Luiz Fernando Barros de Oliveira dos Anj - 6.0 - 16.0 - 22 - 50.0
+309º - 10011157 - Rodisney Antonio de Oliveira Santos - 6.0 - 16.0 - 22 - 50.0
+310º - 10000833 - Paula Nobre Barbosa - 6.0 - 15.0 - 21 - 48.0
+311º - 10016001 - Michel Felipe Cunha Santos - 5.0 - 15.0 - 20 - 45.0
